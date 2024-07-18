@@ -1,3 +1,3 @@
 module helloworld
 
-go 1.18.8
+go 1.23
